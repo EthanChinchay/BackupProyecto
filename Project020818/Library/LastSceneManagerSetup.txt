@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/ProjectBackup.unity
+- path: Assets/Scenes/InsideMazeR.unity
   isLoaded: 1
   isActive: 1
